@@ -1,13 +1,11 @@
-import UsersList from "./components/UsersList";
-
+import UsersList from './components/UsersList';
 
 function App() {
-return (
+  return (
     <div className="container mx-auto">
-<UsersList />
-</div>
-); 
-
+      <UsersList />
+    </div>
+  );
 }
 
 export default App;
