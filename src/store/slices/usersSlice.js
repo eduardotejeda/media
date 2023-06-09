@@ -6,8 +6,6 @@ const usersSlice = createSlice({
   name: 'users',
   initialState: {
     data: [],
-    isLoading: false,
-    error: null,
   },
   extraReducers(builder) {
     builder.addCase(fetchUsers.pending, (state, action) => {
@@ -24,12 +22,10 @@ const usersSlice = createSlice({
 
     builder.addCase(addUser.pending, (state, action) => {
       state.isLoading = true;
-
     });
     builder.addCase(addUser.fulfilled, (state, action) => {
       state.isLoading = false;
       state.data.push(action.payload);
-
     });
     builder.addCase(addUser.rejected, (state, action) => {
       state.isLoading = false;
