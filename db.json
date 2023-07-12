@@ -25,26 +25,6 @@
     },
     {
       "userId": 1,
-      "title": "Bespoke Metal Keyboard",
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Recycled Soft Ball",
-      "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Unbranded Wooden Shoes",
-      "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Handmade Frozen Pants",
-      "id": 14
-    },
-    {
-      "userId": 1,
       "title": "Refined Frozen Tuna",
       "id": 15
     },
@@ -52,21 +32,6 @@
       "userId": 1,
       "title": "Electronic Fresh Chicken",
       "id": 16
-    },
-    {
-      "userId": 1,
-      "title": "Licensed Metal Mouse",
-      "id": 17
-    },
-    {
-      "userId": 1,
-      "title": "Rustic Wooden Towels",
-      "id": 18
-    },
-    {
-      "userId": 1,
-      "title": "Intelligent Fresh Car",
-      "id": 19
     }
   ],
   "photos": []
