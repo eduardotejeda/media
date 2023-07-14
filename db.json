@@ -32,7 +32,23 @@
       "userId": 1,
       "title": "Electronic Fresh Chicken",
       "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Wooden Bacon",
+      "id": 17
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7035101103783936",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7207138931769344",
+      "id": 2
+    }
+  ]
 }
